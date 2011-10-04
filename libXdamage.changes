@@ -1,0 +1,13 @@
+* Sat Feb 27 2010 Anas Nashif <anas.nashif@intel.com> - 1.1.2
+- Updated with latest spectacle
+- Include YAML file in source rpm
+
+* Fri Dec 11 2009 Peng Li <peng.li@intel.com> 1.1.2
+- libXdamage 1.1.2
+
+* Thu Dec 18 2008 Peng Li <peng.li@intel.com> 1.1.1
+- add pkgconfig dependency xextproto
+
+* Wed Dec 17 2008 Peng Li <peng.li@intel.com> 1.1.1
+- use spec builder to generate spec file
+
